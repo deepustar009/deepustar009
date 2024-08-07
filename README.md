@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepustar009
-- 👀 I’m interested in Html 5
+- 👀 I’m interested in Web Designing.
 - 🌱 I’m currently learning Html 5
 - 📫 How to reach me deepustar009@gmail.com
 <!---
